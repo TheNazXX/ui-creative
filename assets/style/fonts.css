@@ -1,0 +1,9 @@
+@font-face{
+  font-family: "Outfit";
+  src: url('../fonts/outfit-bold.ttf');
+};
+
+@font-face{
+  font-family: "Raleway";
+  src: url("../fonts/raleway-regular.woff2");
+};
